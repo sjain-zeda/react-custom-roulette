@@ -5,9 +5,9 @@ import { NonDraggableImage } from '../common/styledComponents';
 export const RouletteContainer = styled.div`
   position: relative;
   width: 80vw;
-  max-width: 550px;
+  max-width: 500px;
   height: 80vw;
-  max-height: 550px;
+  max-height: 500px;
   object-fit: contain;
   flex-shrink: 0;
   z-index: 5;
