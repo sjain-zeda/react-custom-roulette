@@ -15,9 +15,9 @@
 `,y=m.a.div`
   position: relative;
   width: 80vw;
-  max-width: 500px;
+  max-width: 480px;
   height: 80vw;
-  max-height: 500px;
+  max-height: 480px;
   object-fit: contain;
   flex-shrink: 0;
   z-index: 5;
